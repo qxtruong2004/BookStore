@@ -1,0 +1,17 @@
+DAO: Data Access Object
+--> đối tượng để lấy dữ liệu
+//select : lay tat ca doi tuong dang co
+//selectbyID: lay doi tuong theo id
+//insert: them mot doi tuong
+//delete: xoa mot doi tuong
+//update: cap nhat doi tuong
+
+User:
+    + khách hàng:
+        - Đăng ký, đăng nhập, đăng xuất
+        - Xem SP
+        - TÌm kiếm san pham
+        - thêm sp vào giỏ hàng
+        - Các bước thanh toán
+        - thay đổi thông tin/mật khẩu
+        - xem lại đơn hàng cũ
